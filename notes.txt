@@ -1,3 +1,5 @@
 Initial notes for the project.
 More details about the project.
 Additional improvements in the documentation.
+more details about project 
+Additional details
